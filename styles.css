@@ -1,20 +1,25 @@
-* {
-    margin: 0;
-    padding: 0;
-}
 
-body {
-    text-align: center;
+*
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
-
-.square1 {
-    color: blue;
+.border1{
+  text-align: center;
+  height: 25%;
+  width: 80%;
+  color: blue;
 }
-
-.square2 {
-    color: blueviolet;
+.border2 {
+  text-align: center;
+  height: 25%;
+  width: 80%;
+  color: yellow;
 }
-
-.square3 {
-    color: red;
+.border3 {
+  text-align: center;
+  height: 50%;
+  width: 80%;
+  color: magenta
 }
