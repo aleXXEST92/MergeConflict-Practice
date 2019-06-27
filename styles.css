@@ -1,0 +1,24 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.border1{
+  text-align: center;
+  height: 25%;
+  width: 80%;
+  color: blue;
+}
+.border2 {
+  text-align: center;
+  height: 25%;
+  width: 80%;
+  color: yellow;
+}
+.border3 {
+  text-align: center;
+  height: 50%;
+  width: 80%;
+  color: magenta
+}
